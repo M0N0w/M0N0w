@@ -1,18 +1,45 @@
-<h1 align="center">💻 Mohamed Walid — Backend & Mobile Developer 👑</h1>
+<h1 align="center">👨‍💻 Mohamed Walid | Backend & Mobile Dev</h1>
 
 <p align="center">
-  ⚔️ Code Knight | 📱 Mobile & Backend Dev | 🧠 System Thinker | 👑 Former Team Leader
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Leader-%F0%9F%91%91%20Crowned%20Mentor-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Warrior%20Mindset-%F0%9F%94%AB%20Unbreakable-7000ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%23%20%7C%20Dart-000000?style=for-the-badge&logoColor=white" />
+  Passionate about backend development, system architecture, and building clean mobile experiences. Focused on writing scalable, maintainable, and efficient code.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
+
+- 🔧 Backend-focused developer using **Python**, **C#**, and **ASP.NET**  
+- 📱 Comfortable with mobile development using **Flutter & Dart**  
+- 💾 Experienced with **MySQL** & **Firebase** for structured data  
+- 🧩 I enjoy building RESTful APIs and backend systems that just work  
+- 📚 Lifelong learner, always exploring new tools and best practices  
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages  
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+#### Frameworks & Tools  
+<p align="center">
+  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M0N0w&theme=tokyonight&hide_title=true&show_icons=true&hide=issues&count_private=true" width="45%" />
@@ -22,30 +49,12 @@
 
 ---
 
-### 📬 Connect with Me
+### 🔗 Connect with Me
 
-<p align="center">
-  <a href="mailto:mohamed.walid.work2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Work%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:mono972007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Personal%20Mail-yellow?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 📬 [LinkedIn](https://www.linkedin.com)  
+- 📨 Email: **mohamed.walid.work2007@gmail.com**, **mono972007@gmail.com**  
+- 💼 Portfolio (coming soon...)  
 
 ---
 
-### ⚙️ Quick Glance Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-350+-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current_Streak-7_days-purple?style=for-the-badge&logo=flame" />
-  <img src="https://img.shields.io/badge/Longest_Streak-30+_days-magenta?style=for-the-badge&logo=fire" />
-</p>
-
----
-
-> _"Power is nothing without purpose. Code is nothing without clarity."_  
+> “Write clean. Think big. Build smart.”
