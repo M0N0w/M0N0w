@@ -51,7 +51,7 @@
 
 ### 🔗 Connect with Me
 
-- 📬 [LinkedIn](https://www.linkedin.com)  
+- 📬 [LinkedIn](https://www.linkedin.com/in/mohamed-walid-388907260/)  
 - 📨 Email: **mohamed.walid.work2007@gmail.com**, **mono972007@gmail.com**  
 - 💼 Portfolio (coming soon...)  
 
